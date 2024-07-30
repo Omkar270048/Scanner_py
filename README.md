@@ -78,19 +78,5 @@ main('../img/omr10.jpg', './output_scan.png')
 
 - `scanner.py`: The main script for scanning documents. Contains functions for loading images, processing, and saving results.
 - `transform.py`: Contains helper functions for perspective transformation.
-- `requirements.txt`: Lists the Python packages required to run the code.
 
-## Contributing
 
-Contributions are welcome! To contribute:
-
-1. **Fork the Repository**: Create a personal copy of the repository.
-2. **Create a Branch**: Create a new branch for your changes.
-3. **Make Changes**: Implement your changes or new features.
-4. **Submit a Pull Request**: Open a pull request with a description of your changes.
-
-Please ensure that your code adheres to the existing coding style and passes any tests before submitting a pull request.
-
----
-
-Feel free to customize further, including replacing placeholders like `yourusername` with your actual GitHub username and adjusting the file paths and names as necessary.
