@@ -91,16 +91,6 @@ Contributions are welcome! To contribute:
 
 Please ensure that your code adheres to the existing coding style and passes any tests before submitting a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For questions or feedback, you can reach out to:
-
-- [Your Name](https://github.com/yourusername)
-
 ---
 
 Feel free to customize further, including replacing placeholders like `yourusername` with your actual GitHub username and adjusting the file paths and names as necessary.
